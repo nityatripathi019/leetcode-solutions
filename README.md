@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -40,4 +43,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
