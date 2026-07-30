@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -26,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
