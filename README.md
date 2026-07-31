@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,4 +74,8 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
