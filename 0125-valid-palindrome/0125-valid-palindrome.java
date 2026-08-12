@@ -1,6 +1,6 @@
 class Solution {
     public boolean isAlphanumeric(char ch){
-        if(ch>='0'&&ch<='9' || ch>='a'&& ch<='z'||ch>='A'&&ch<='Z'){
+        if(Character.isLetter(ch)||Character.isDigit(ch)){
             return true;
         }else{
            return false;
