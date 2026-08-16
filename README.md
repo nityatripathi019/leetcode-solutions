@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -51,6 +52,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nityatripathi019/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
