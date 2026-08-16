@@ -4,7 +4,7 @@ class Solution {
          int n = nums.length;
         int nextGreater[]= new int [n];
        
-        for(int i =(2*n)-1 ;i>=0;i--){
+        for(int i =2*n-1 ;i>=0;i--){
             //while 
             while(!s.isEmpty() && nums[s.peek()]<=nums[i%n]){
                 s.pop();
