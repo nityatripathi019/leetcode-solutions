@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0169-majority-element) |
@@ -112,4 +113,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nityatripathi019/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
