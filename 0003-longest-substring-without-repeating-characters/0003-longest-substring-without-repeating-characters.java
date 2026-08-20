@@ -7,8 +7,8 @@ class Solution {
       while(end<s.length()){
         char ch = s.charAt(end);
 
-        if(map.containsKey(ch) && map.get(ch)>=start){
-            start=map.get(ch)+1;
+        if(map.containsKey(ch) ){
+            start=Math.max(start,map.get(ch)+1);
         }
         map.put(ch,end);
         maxLength= Math.max(maxLength,end-start+1);
